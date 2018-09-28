@@ -1,0 +1,14 @@
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\obj\Debug\Math App.csprojResolveAssemblyReference.cache
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\obj\Debug\Math App.csproj.CoreCompileInputs.cache
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\bin\Debug\Math App.exe.config
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\bin\Debug\Math App.exe
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\bin\Debug\Math App.pdb
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\obj\Debug\Math App.exe
+C:\Users\open\OneDrive\MSSA\Labs\ISTA 220 Lab 3D C# Math App\Math App\Math App\obj\Debug\Math App.pdb
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\bin\Debug\Math App.exe.config
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\bin\Debug\Math App.exe
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\bin\Debug\Math App.pdb
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\obj\Debug\Math App.csprojAssemblyReference.cache
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\obj\Debug\Math App.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\obj\Debug\Math App.exe
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\Labs\ISTA 220\ISTA 220 Lab 3C C# Write your own program\Math App\Math App\obj\Debug\Math App.pdb
